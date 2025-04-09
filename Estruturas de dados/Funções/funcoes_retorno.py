@@ -18,3 +18,9 @@ def func_3():
     print("Olá, Mundo!")
 
 print(func_3())
+
+poli_len = len("python")
+print(poli_len)
+
+poli_len_2 = len([10, 20, 30])
+print(poli_len_2)
