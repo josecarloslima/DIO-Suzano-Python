@@ -1,0 +1,41 @@
+Metadata-Version: 2.4
+Name: image_processing
+Version: 0.0.1
+Summary: image processing package using skimage
+Home-page: https://github.com/josecarloslima/DIO-Suzano-Python/tree/main/IMAGE_PROCESSING_PACKAGE/image_processing
+Author: jose_carlos_lima
+Requires-Python: >=2.8
+Dynamic: author
+Dynamic: description
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# image_processing
+
+Description. 
+The package image_processing is used to:
+	Processing: 
+        - Histogram matching
+        - Structural similarity
+        - Resize image
+	Utils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+
+```bash
+pip install image_processing
+```
+
+## Author
+JosÃ© Carlos Lima
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

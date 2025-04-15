@@ -13,7 +13,7 @@ setup(
     description="image processing package using skimage",
     long_description=page_description,
     long_descritption_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/josecarloslima/DIO-Suzano-Python/tree/main/IMAGE_PROCESSING_PACKAGE/image_processing",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=2.8',
