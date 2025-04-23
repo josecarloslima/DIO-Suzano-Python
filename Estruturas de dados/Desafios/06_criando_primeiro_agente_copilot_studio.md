@@ -2,10 +2,10 @@
 
 ## Criando meu primeiro Agente
 **Passos:**
-1- Criar contas no CoPilot Studio e Microsoft Power Apps
-2- Criar o ambiente "DIO ambiente DEV"
-3- Criar a solução " " no ambiente criado
-4- Criar o agente "Agente DIO Viagens Segura" e vincular com ambiente
+ 1- Criar contas no CoPilot Studio e Microsoft Power Apps;
+ 2- Criar o ambiente "DIO ambiente DEV";
+ 3- Criar a solução " " no ambiente criado;
+ 4- Criar o agente "Agente DIO Viagens Segura" e vincular com ambiente.
 
 ## Especificações do agente
 **Idioma**: Português (pt-br)
