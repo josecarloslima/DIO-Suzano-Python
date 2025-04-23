@@ -7,7 +7,7 @@
  
  2- Criar o ambiente "DIO ambiente DEV";
  
- 3- Criar a solução " " no ambiente criado;
+ 3- Criar a solução "DIO Copilot Studio Teste Z" no ambiente criado;
  
  4- Criar o agente "Agente DIO Viagens Segura" e vincular com ambiente.
 
